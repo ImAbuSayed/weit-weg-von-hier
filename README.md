@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/weit-weg-von-hier/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Weit weg von hier](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/weit-weg-von-hier/) |
+| **Get License** | [Request Licensing for Weit weg von hier](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/weit-weg-von-hier/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `de850ba0a2838760a8fabe595f3117f2b5fdb082b90c0822be2e7ceb55eb2ddb` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Weit weg von hier
+
+This log tracks the cryptographic history and versioning for the song **Weit weg von hier** (weit-weg-von-hier).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T12:25:59.293964 | `v1` | `de850ba0a2838760a8fabe595f3117f2b5fdb082b90c0822be2e7ceb55eb2ddb` | `eadab221100fc29197083ebbc2918bed549ebe05e614d1e14e6d0956854c33eb` | `2026-06-28_weit-weg-von-hier-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
