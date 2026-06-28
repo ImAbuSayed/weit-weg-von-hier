@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/weit-weg-von-hier/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Weit weg von hier](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/weit-weg-von-hier/) |
+| **Get License** | [Obtain a Music License for Weit weg von hier](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/weit-weg-von-hier/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein, der Motor ist laut, wir fahr'n durch die Nacht
+> Stadtlichter zieh'n an uns vorbei, du hast mich um den Verstand gebracht
+> Spür den Bass in der Brust, deine Blicke so tief wie das Meer
+> Komm ein bisschen näher ran, denn ich geb' dich nie wieder her
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
